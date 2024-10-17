@@ -27,7 +27,7 @@ Visit the live version [here](https://rifat328.github.io/Dice-Game/).
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rifat328/Dice-Game-Challenge.git
+   git clone https://github.com/rifat328/Dice-Game.git
    ```
 
 2. Navigate to the project directory: cd Dice-Game-Challenge
